@@ -1,5 +1,11 @@
 # LLM-RAG
 
+## Pre-request
+
+1. Go to [Ollama](https://ollama.com/), install it.
+2. Pull llama3.1
+3. ollama serve
+
 ## Install
 
 ```bash
