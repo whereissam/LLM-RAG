@@ -4,7 +4,7 @@
 
 1. Go to [Ollama](https://ollama.com/), install it.
 2. Pull llama3.1
-3. ollama serve
+3. Run `ollama serve`
 
 ## Install
 
