@@ -1,5 +1,11 @@
 # LLM-RAG
 
+## Install
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Create Database
 
 ```bash
