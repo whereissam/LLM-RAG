@@ -1,21 +1,33 @@
-from langchain_community.document_loaders import PyPDFDirectoryLoader
+from langchain_community.document_loaders import PyPDFDirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import chromadb
 
 # setting the environment
 
 DATA_PATH = r"data"
+TEXT_PATH = r"text"
 CHROMA_PATH = r"chroma_db"
 
 chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
 
-collection = chroma_client.get_or_create_collection(name="growing_vegetables")
+collection = chroma_client.get_or_create_collection(name="Crypto_World")
 
 # loading the document
 
-loader = PyPDFDirectoryLoader(DATA_PATH)
+# loader = PyPDFDirectoryLoader(DATA_PATH)
+loaders = [
+    PyPDFDirectoryLoader(DATA_PATH),  # First PDF directory
+    TextLoader("PayFi.txt")          # Text files loader (or any other type of loader)
+]
+# Load all documents from multiple sources
+raw_documents = []
+for loader in loaders:
+    raw_documents.extend(loader.load())  # Combine the loaded documents
 
-raw_documents = loader.load()
+# Test for embedded data
+print(len(raw_documents))
+page = raw_documents[len(raw_documents) -1]
+print(page.page_content[0:2000])
 
 # splitting the document
 
@@ -28,7 +40,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 chunks = text_splitter.split_documents(raw_documents)
 
-# preparing to be added in chromadb
+# # preparing to be added in chromadb
 
 documents = []
 metadata = []
@@ -52,6 +64,8 @@ collection.upsert(
     ids=ids
 )
 
+# Test for data already embedded
+
 # Verify the number of documents in the collection
 num_documents = collection.count()
 print(f"Number of documents in the collection: {num_documents}")
@@ -66,7 +80,7 @@ print(f"All document IDs: {all_ids['ids']}")
 
 # Query the collection for documents containing the word "vegetables"
 results = collection.query(
-    query_texts=["vegetables"],
+    query_texts=["payfi"],
     n_results=5
 )
 
