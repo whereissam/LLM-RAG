@@ -1,157 +1,228 @@
-﻿
-PayFi X_ Episode 1 with Lily Liu
-2024-08-12 23:21:04 CST
-45min 3s
-Keywords
-new markets new products different things new financing products new transactions New York Times time value new technologies great thing different applications new DMS new avenue new participants new entrants new category certain things new product mechanism times people 
-Transcript
+2024-08-12 23:21:04 CST|45min 3s
+
+Keywords:
+new markets、new products、different things、new financing products、new transactions、New York Times、time value、new technologies、great thing、different applications、new DMS、new avenue、new participants、new entrants、new category、certain things、new product mechanism、times people
+
+Transcript:
+Speaker 1 05:15 
 Hey, Lily, looks like you have joined. I will have sent you an invite. Can you please accept as a speaker?
 
+Speaker 2 06:03 
 Alright, looks like there are more people coming in. This might be a theater X. Alright, Lily, welcome back. Can you hear me? Yes, I can hear. Perfect. Richard, can you hear? Fantastic. Nice.
 
+Speaker 1 06:18 
 You can hear each other beautifully.
 
+Speaker 2 06:20 
 That's awesome. That's awesome. This is the first pay 5 x phase. So thank you everybody for showing up. I know more and more people are dialing in. Let everybody know that they should not miss this one. So as we wait for more people to come in, Megan Lily, I remember you were in Paris last week. Is that, is that right?
 
+Speaker 3 06:46 
 That's right. I was in Paris Thursday, Friday, Saturday. I've been a huge fan of the Olympics since I was a kid. And I got to go to the 2008 Olympics. And this time I got to go to the opening ceremonies. It was incredible.
 
+Speaker 2 07:00 
 The opening ceremony. I was trying to watch it, you know, on the TV as I was working. It's just like, how long was that?
 
+Speaker 3 07:10 
 It was, you know, unfortunately, it started raining exactly as the show got going, you know, so it was, it's been a really rainy summer in Europe and it was unfortunate. That was really s just during the show that it was like the biggest rain they'd had in several weeks. Oh, my God.
 
+Speaker 2 07:28 
 And what's your favorite sport in Olympics at this Summer Olympics?
 
+Speaker 3 07:33 
 100% swimming. I used to be a swimmer. It's hands down swimming for me. Oh, this I used to, I could still probably rattle off number of world direct records and all sorts of stats about swimming from 96,2000,2004,2008. So I won't. I've since traded that obsession for crypto.
 
+Speaker 2 07:54 
 I know the answer from Richard for this one, but unless maybe speak to which specific support he is looking the most forward to in Olympics.
 
+Speaker 3 08:05 
 I'm curious. Yeah, I'm curious what is your guys'favorite?
 
+Speaker 1 08:09 
 I think this one, urban and I share something in common. I, when I grew up, I play table tennis and was semi competitive but not professional level. This and obviously this time, especially, eh, you know, the Chinese obviously the strongest in table tennis. But the upset of the No. 1 main single, he was upset at the round of, only probably the second round. He was year out. That put a lot of stress to the team. It was so far, it was so interesting in the world. Watch how the team continue to hold them together. Looks like they still have good chance to get the men's single.
 
+Speaker 3 08:52 
 Oh, okay. Well, still in progress then.
 
+Speaker 1 08:57 
 I think the a woman single, they already get both of them get into the final. So the Chinese team got the gold and sale server and the main, another one got into the final. So this still have a good chance.
 
+Speaker 3 09:13 
 Cool. Yeah, yeah, there's still one and a half weeks of Olympics. No, but if there's still another. Yeah, week and a half of Olympics to go, so I'm excited.
 
+Speaker 2 09:20 
 About it. Yeah, normally table tennis and gymnastics is kind of like what I did when I was, you know, a kind of teenager in middle school, high school. So those are kind of my defaults. But this year, oh, man, this shooting thing, have you seen all these memes?
 
+Speaker 3 09:36 
 How could anyone miss it?
 
+Speaker 2 09:40 
 It's insane. It's insane. They, especially, you know, the South Korean, the shooter, she's just like a badass. And then, you know, this Turkish man shows up out of nowhere. And he turns out to be a retired military police officer and people suspect him to be an actual hitman, saying one last government job for.
 
+Speaker 1 10:02 
 You, for this.
 
+Speaker 2 10:04 
 Country.
 
+Speaker 3 10:06 
 He's just coming in off the job. Yeah, that's why it looks like it's just another day in the office for him, you know?
 
+Speaker 2 10:12 
 We have a term called Yazaki, you know, like the people who retire usually got like a coastal town in Turkey and just like, you know, put their flip flops on and they just, you know, spend it spend the time in a relaxed way. And it just feels like they just, you know, pull him out of his ass.
 
+Speaker 1 10:30 
 Yeah, I was suggesting to Georgia, get him as a speak person for super team in Turkey.
 
+Speaker 3 10:41 
 Gotran, I just, I think I just saw you. I think I see you on the spaces. So gotran, we should do that. That.
 
+Speaker 2 10:49 
 Would be amazing. That would be amazing. All right. So I want to, you know, kick off the first pay fine take spaces with I think the most important question in people's minds because, you know, this is a big moment. This is a very big moment. You know, we're revealing this at a major level to the whole ecosystem. And, you know, really, obviously, you know, you have been talking about this for a while and maybe it's good to level sets first, right?
 
+Speaker 2 11:17 
 So let's start with like why pay 5 matters, right? Why should we really care about this right now? What does it really mean for all of us, you know, in this call?
 
+Speaker 3 11:29 
 Yeah, so I think Payfi matters because it's useful. And in my mind, it's not just that it's inherently useful, but I actually think this is what crypto really set out to enable. So I gone into crypto 10 years ago in 2013. Bitcoin, you know, is created in 2008. And so if I, I, yeah, I was basically class of 2013, kind of 2014. And I remember back then the discourse that we had around why a blockchain technology might be useful. First of all, it was much more theoretical back then than it is now, right? But, you know, the, I think a lot of the interesting ideas and a lot of the interesting hyper policies were actually pretty much articulated already back then. And one of the major areas that people were talking about, you know, if you just go to YouTube and look at Andres Antonopolis is talks, he talked a lot about programmable money and there's a lot of discourse also around global financial system and how self custody basically bare instruments would allow you added, you know, the 247 nature of it, the programmability part of it, math mountain money that is essentially a mathematical algorithm, like all these crazy things added together would give you something where you have programmable money and then an open financial system where in its essence, everyone who has an internet connection also has a bank account. And then that becomes really powerful because with that, then everyone has at least the opportunity to have direct access to, you know, a form of economic sovereignty in an increasingly digital world. And to the extent that economic sovereignty is a pretty important part of self sovereignty generally, it becomes actually like a very profound thing to be a part of and to advocate for it to be working on.
 
+Speaker 3 13:20 
 So to me, that is the original story of blockchain. And, you know, given that people are building so many other things these days that are also really interesting with sort of decentralized applications. I would broaden that pieces to say, you know, that is to me, not just one of the original visions of crypto, but also important for any of the other application spaces to really thrive, right?
 
+Speaker 3 13:45 
 So for example, games, it may seem very far afield from financial primitives, but if you're playing game and there's a financial aspect to that, whether it's an in game item, whether it's on, off ramping, some financial component of that game, that aspect of a web 3 game is just gonna be better if you have liquid formant, diverse on chain finance, right? And so to me, I think that, you know, when we look at finance on chain today, we primarily, our minds immediately jump to Defi. And Defi is all about trading, right? It's all about token in and token out. When in reality, most of the economic activity in the world is not, you know, trading a dollar for a euro or trading asset a for asset B, but rather it's payments, right? And it's payments for a value for something which is either a good or service in return. And so over the last couple of years, I've kind of been thinking, you know, where is that whole side of the economy being represented on chain? And it, I, it's not. And I think that is something that is starting to change, is going to change. And it's really important to change cuz I actually think that is one of the biggest things that crypto can kind of do for, I guess, the world we live in, even if you wanna kind of take it to that level.
 
+Speaker 2 15:10 
 Yeah, that's actually a striking parallel to my experience. You know, 2014, I was a mentor at the Teil Fellowship program. And you know who went through that program? Vitalik himself. And he did it. No very thorough pitch for what he wanted to build. At the time. He was already, you know, three years into the Bitcoin ecosystem. He was kind of like, you know, ideating in the ecosystem. And he was frustrated because, you know, the ecosystem was built originally, right? Like the white paper was written originally for creating this utility for decentralized payments, but that was not really happening. And he pitched Ethereum as, you know, a Javascript that's built around, you know, money, decentralized governance, and decentralized applications. And that was kind of like very crystal clear in his mind that would enable, right, a lot of different applications of the sort. And obviously, you know some of his predictions about, you know, people building does and prediction markets and you know, some certain vote applications on top of it all came true. But even up to, you know, today, to your point, the trading activity, the trading nature, the trading narrative and the trading use cases kind of took over, I think, the whole space. And I think one of the reasons why, you know, the apply stayed at a probably very limited capacity and cap, market cap is this, right? Because we have this giant use cases that really interest every single human being in the world. And I think, you know, what we are doing here altogether with this Pi 5 moment is actually bringing this back to the core of blockchain. So that's fascinating that, you know, you also mentioned that. Richard, do you have anything to add?
 
+Speaker 1 17:01 
 Yeah, I want to add something weird from the impact of the power of time value of money. I think that's a really beautiful capture of the value. So when urban, I, before we're in crypto urban, and I already was doing payment financing in a company called earning is one of the largest consumer lending company in the United States. They had like last year alone, they're originally there, about $10 billion. So those are the basically enable people who live in paycheck by paycheck to borrow against their future paycheck.
 
+Speaker 1 17:36 
 Initially, we thought, okay, sure, we're doing much better than the traditional, let's say traditional predatory, you know, money lending service. We charge much lower fees, but still you charge fees and the fees not very small. We thought, yeah, people may appreciate, but it's still expensive.
 
+Speaker 1 17:57 
 Turned out all the users, our users were so grateful for the service. They were just, I, if you use a measurement called net promoter score, it was 70. It was insanely high. And so that was based on people are so appreciate, they are able to guard against their future money. Why? Because otherwise they cannot move forward with their life. They cannot really have a birthday party for their kids. But if they have the money access earlier, they can go to do a lot of things, unlock their life. So that is really when you are able to model the time value of money and you will enable a lot of use cases. That is just one. I'm sure we can talk about a ton of other use cases as well.
 
+Speaker 2 18:41 
 Actually, that's a great segue, Richard. Why don't we, you know, unlock this a bit more? So, you know, we talked about why pay 5 matters, but there are so many different types of applications, right? You can build on this stack, you know, within this realm. And I, you know, we talked quite about internally the cross border payments financing use case because ARF is the king of that use case. And I see a lot of, you know, our team members in the audience as well. But there are so many other use cases like this enables even though, you know, we talk some of about some of these. I'm wondering, especially Lily from yourself, what are the use cases you are the most excited about?
 
+Speaker 3 19:28 
 Yeah, so I think that, but, oh, what I'm really excited about with there's kind of near term and then also longer term. I think near term, some of the stuff that you guys are working on, which is really initially focused around a very safe version of providing, launching credit, right? With respect to cross border payments is something where the money is already there on the incoming end. And so there isn't a ton of credit risk, which means that it makes it easier for people to sort of, you know, be comfortable with this new product mechanism, you know, way that money is moving around the globe with stable coins, right? So I think that's something that we really need to build a lot of volume around. I think starting with something which is simple and safe. So, you know, as people kind of get over all of the other sort of, yeah, new and different things around the technology is pretty important.
 
+Speaker 3 20:21 
 What I'm excited about medium and longer term is new financing products that you can offer to new markets. You know, I think my perspective is that new technologies always become exciting and relevant and become very important because, not necessarily because there fundamentally changing human behavior or human preferences, right? But really they're opening up, they're enabling sort of the capture of long tail markets that already exist.
 
+Speaker 3 20:58 
 And so, you know, if you look 20,30 years back, I guess at this point with original internet, I think in their early days with, you know, the aolls and in which traditional media, right? A lot of people originally thought, okay, the existing media companies are going to be dominant because they have all the distribution today, day and they have all the customer bases in the Salesforce stone and so forth. And so, you know, the supposedly obvious thing was gonna be that you would digitize, I don't know, like pick a traditional media company like the New York Times or something like that, and then it would enhance our dominance, right? Completely wrong. What it was about instead is enabling long tail content creators. And I suppose for all consumers now of, for example, the YouTube content and all the Twitter contents, you know, the firehose head is today. And it was really sort of about revealing, organizing and monetizing a long tail of content creators and consumers. And that was really, you know, what you could do with information being practically free on the internet.
 
+Speaker 3 22:07 
 And so similarly, when I think about how people are characterize what blockchain is gonna do for payments, right? You'll oftentimes hear this analogy of web 1 and web 2 made information free and now, you know, this is money being able to move more freely around the world. So if that is true, but then where people oftentimes end up as the next sentence is, okay, so now it's gonna be 247 and constant payments.
 
+Speaker 3 22:38 
 I'm like, the wait, that's it? That's like digitizing the newspaper. And so for a long time, I kind of been like, okay, where's, you know, like, where's the page jump? Like, where's like, it can't it, that can't.
 
+Speaker 2 22:50 
 Be, it has to be a part of that shift as well, right?
 
+Speaker 3 22:54 
 There has to be a paradigm shift and there has to be something that you can do that you couldn't do before. And so if you're talking about money in businesses, what it's gotta be is it's gotta be businesses that couldn't get financed before and or even individual invoices or products.
 
+Speaker 3 23:11 
 There's kind of like something below the transaction line, the economic transaction line today, which is probably a lot, right? It's similar to, you know, to all the folks that could potentially be creating content in some form that is not necessarily being employed journalists at the New York Times. So that huge kind of iceberg of supply and demand, like there's gotta be something there that we can create new products out of. And so that to me is, it's like an enormous market cuz essentially, anytime you have a value chain of goods and services, there's a production cycle, which means, you know, a time gap. I don't, I wouldn't call it latency, but you know, you produce something, you ship it, and that's like a six week cycle. Or I produce something and someone wants to try it out before they'll pay me, right? There's always some sort of time gap there and therefore, a credit market built into every single one of those transactions. And I'm like, well, that those are the interesting markets in addition to things like, you know, micro finance. So I, we've already sort of very well explored as an industry 2018,2019 or at least the first exploration of this of using crypto for fundraising. And well, that went a certain way. And yeah, exactly. So while we're kind of experimenting with different things you can do in finance now, I think this is just a really exciting one. So initially, it'll start off with things that seem presumably very boring right now. I can pay someone truly 24,3,65,24,7,3,65. And then someone else will basically cover the transit time and get paid for that, which will end up paying them something around 20%. You're a guilt, right?
 
+Speaker 2 25:01 
 Awesome. Actually, this, I love this analogy because, you know, often internally we talk about if you're able to digitize something, right? Like when we think about advertising atoms, right, digitizing matter, the one of the first things that comes to mind when you visualize that is, you know, teleporting something from one place to another, right? And a lot of times we think about, you know, what can really shift this paradigm if you truly make money open and programmable and one of those things, actually, you should be able to teleport the certain access of money, right? And the money has a real value today.
 
+Speaker 2 25:41 
 But there's a time axis, as you mentioned, because there's a settlement time. But why do you always have to think about settlement time as something you know so far in the future, right? Why can't you trade that? Why can't you make that trade off for yourself? Because especially if you are, you know, bootstrapping, which, you know, many people in the world do, maybe except one person who is likely to inherit a lot of wealth from previous generation. We all start bootstrapping, right? We all start with bootstrapping. You know, I started with a, you know, few hundred dollars in college and just, you know, built up from there. And that requires to actually think about, you know, your cash flow way more than anybody else. And you kind of like struggle to really make the ends meet if you can't, you know, get paid in time. And a lot of times you can't get paid in time and there is no solution, right for you. So if I think for that economy, you're so spot on. There can be a very different type of money they can use, and that money can give them the option to actually trade off the on the time value axis, which is anything to add here?
 
+Speaker 1 26:41 
 Yeah, I think that's another angle I want to say is the. Yes. When you with this technology, not only capture the time value of money, but also with those type of, all kinds of interesting custodians, you can really enable a lot of experience that people have been non dreamful but cannot do. For example, t plus 0 settlement if you go to any financial places, people really say, you know, nowadays a lot of things, t plus 1 and t plus 2. And people would say, if you can make it happen, t plus 0, that will be huge. That will be massive. Even you look at the domain that we are in, real world assets. So most of the real world assets, I, if you try to do redemption, it will take, it take a couple of days to redeem that. Even the most popular ones is TBL. On those TBL products, then redemption takes a couple days. A lot of times people would love to s pin a small amount of money, but they're able to access the capital immediately. So there is a huge demand there.
 
+Speaker 1 27:45 
 In the past, it's very hard to do. Why? Because you have to move money from account a to account B, from account B to account C. But now with shared custody and you knew this money is already there, you just need to change, you know, grant a smart contract with governed the access of the money and whenever, yeah, oh, oh, when you change the access, then in instantly the party who are supposed to get the money, they will get the money. So that's kind of shared custody architecture enabled a lot of innovation on the money, how fast you can transfer ownership of money. And we have super excited for that t plus 0 use case as well.
 
+Speaker 2 28:30 
 Okay, now let me jump onto a hat hot take or hot topic. Let's say. You know, there has been a lot of thoughts around real yields, right? So obviously, you know, some big crypto traders, we're talking about it. And unless we're talking about it, and I saw Mert as well recently, you know, talk about it in a maybe sarcastic time that he was saying, you know, if you're building something in crypto, stop making money. You have to stay pre revenue for as long as you can. But obviously, you know, we have a quite different take on this. I, I, I'm curious, maybe, Richard, we can start with you on this one. It is really something that the ecosystem needs. Does it really matter?
 
+Speaker 1 29:21 
 Yeah, absolutely. I do feel so far equipped world. And one of the limitation is that there are not too many projects can create real yield. Then it ends up a lot of projects is just living by, continue diluting their token business by immediate token, give the community and everybody know your total number tokens is just finite if unless you make it inflationary. And of course inflationary has its own new challenge, different challenges. Otherwise, if you cannot click value, you just cannot do the game perpetually. There is no way. Mathematic does not work. So that's absolutely for Crypto World, just go much bigger than what Defi has today. If you go there from there, the 100 x, 1,000 x, you would have to be fundamentally value driven back to merge the message.
 
+Speaker 1 30:14 
 I really like his post and I love it. Very entertaining. And many of them have super insightful comments on his my post a couple days ago. Really, he was advising the founder's head, just keep in pre money. Otherwise they, the VC is all these things, the valuation will be much lower. And I hear his point. If the actual has some interesting value, how do you maintain at a high multiple? And then when you don't have a good revenue, sure, when you have revenue, people are going to look at your revenue and you get valued and lower than instead you have a good narrative.
 
+Speaker 1 30:52 
 But my control to him is that, you know, not all revenue are the same. Some revenue are lower quantity revenue. Some revenue are higher quantity revenue. If you are confident, if you really have very high quality revenue, and especially you also revenue plus you have growth potential, that means you have you're creating new category, you're caption value, you're creating new category. People have a lot of imagination to see it. I think all the investors will look at in a total different way. It's not revenue itself is not good, it's you have to have sustainable high quantity revenue. We have that. The violation will be rewarded accordingly as well. That's a.
 
+Speaker 2 31:32 
 Good point. If you have no revenue, your revenue multiple is influenced by mathematical definition of it. But I cannot agree more that, you know, there is a point where if we actually are creating real value, that real value I is captured in real yields, right? And I think that's a good measure of transition of value in both ways. I'm curious, maybe Lily.
 
+Speaker 1 31:58 
 So I've heard, yeah, everyone started. Before we jump to Nini, I want to add one more. Of course, I think the reason is that most people in crypto have to see really high quantity revenue generating product. So yours unit swap can be one of them. But I think there will be more and more coming. And our partner ARF is one example. There'll be a lot more work coming on the way. How.
 
+Speaker 2 32:22 
 Does salon ecosystem think about this, Lily? I'm sure, you know, you're right plugged in there and understand the, you know, developers, you know, thoughts and the vision of the ecosystem and what it's, let's trying to got you. Where does real yields come into play?
 
+Speaker 3 32:44 
 Well, I think that one thing that really attract can be Salana from the beginning is Salana is very pragmatic. And just as an overall culture and ethos seeks to build things that are practical, and you see that reflected in the overall ethos of how even the blockchain was created, right? Let's build infrastructure for something which is useful and useful for application sooner in life rather than building infra for infra for infra, right? And so with real yield, I mean, it really, you know, is an industry. What we should want is to be, is to bring real economies on chain and build, and bring real economic activity on train, I would argue this is like part of my whole thesis around Payfi and why we started talking about it is the reason why these real economies don't exist on chain is because they haven't been able to exist on chain. And so therefore they don't, so therefore no one talks about them and then people presume that it's not a thing, right? So this is a category that we have to collectively create. And I think it's entirely possible because in actuality, the infrastructure, the technology is already here. And it's actually largely a product and a BD effort that we can with as a little bit of product creativity and a whole lot of, you know, BD and a whole lot of sort of in parallel ecosystem growth with, you know, various institutions bringing you assets on chain.
 
+Speaker 3 34:11 
 And then I think we're gonna have not just yields to potentially consider, which in and of itself becomes, helps track new entrants and new participants into the ecosystem and into the on chain economy, but then also innovation around new transactions that you can do.
 
+Speaker 3 34:31 
 Like one of the things that we've talked about a little bit is whether you could introduce a mechanism like buy now, pay never. And what that would how that would potentially work is, you know, classically, everyone likes talking about buying coffee with crypto. So if we use that as an example, you go into a shop, you pay for coffee, cost five bucks, and as a consumer, instead of me actually paying that $5 today, someone pays the merchant, maybe the merchant you've even taken on credit. I put money into lend borrow and the interest pays off.
 
+Speaker 3 35:02 
 My cup of coffee. Those are like kind of cool things that you can't do today. And what, and it potentially gets cooler because if you have truly composable assets, then I could potentially pay with something other than $1. I could pay with, you know, next step, a babyset beyond paying with a stable coin is a yielding coin. And then maybe I can pay with my, I could pay with, I could stash my bunk and you'll borrow. And my interest off of that is paying off my coffee. Like this gets pretty cool pretty quickly, right? Is.
 
+Speaker 2 35:34 
 Actually this is quite magical. And I think to your earlier point, right, when you actually start shifting the underlying infrastructure, when you start shifting the, all the, you know, value chain more towards the people, right, versus locking the value chain at the very centralized institutions. I'm not gonna name them, but they start with B. And you know, the way they captured most of the value, then suddenly certain things that has been hidden, you know, from the whole ecosystem start being possible because now the value accrues and flows all the way to the end, you know, user in the end business wallet, right? And that wallet can carry a lot of, you know, asset that has intrinsic value and yield bearing value, especially in a, you know, potentially inflation on but rates low economy. There is no other. I don't see any other logical, you know, a place for people to go to other than, you know, keeping most of their cash flow and savings in wallet that has some of these assets.
 
+Speaker 2 36:41 
 So that totally enables experiences, like you said, right, that would never be thought possible in the traditional economy, in traditional, you know, market. So maybe that can be the segue for us to, I is, you know, close with like, what are we looking forward to? Like, how do we build these ecosystem that we talked about? Because this is such a P model moment. We're, you know, creating something that has tremendous amount of value, you know, potential to bring tens of dollars of, you know, trade activity over to, you know, the blockchain in ways that we haven't envisioned before. And what are the ways that actually we can, you know, accelerate build up of that ecosystem?
 
+Speaker 2 37:23 
 You know, we're starting, you know, obviously with talking about the pay 5 moment, and then we're gonna bring in more and more amazing developers and infrastructure builders into the Pay Fi x space every other week. But we also have a Pay Fi summit happening in Singapore. Do you wanna say anything about that?
 
+Speaker 1 37:46 
 Yeah, so from our human pursuit, we're super excited. And I ne, I still remember when I met with Nini, probably early April or late March, talk about FIFA. We just feel instant click, right? You have the right infrastructure. You also need the right application infrastructure. You can bring a lot of apps coming together. So that's weird. We think the movement is right now and it mobilize you. We believe in an open stack so that get all the, you know, from infrastructure to currency to custody to application altogether talk about it. And there are a lot of use cases we can, working together, enable a lot faster. We believe, just like crypto, a lot of things, the best way is get people together, talk about it. So we are going to start with a series of Payfi Summit. And starting from in token 2449 in Singapore, we're very. i did to part with soana to well drive to co host。 Eh, the first payfest summit and really looking forward to, you know, work with Nini and your organization and many others in together to make it a success.
 
+Speaker 3 39:03 
 Yeah, I'm really excited about it as well. I think that, you know, every crypto cycle has a different theme to it. The last one was clearly around NFTs and on train creators and art Pfps and all that type of stuff. To me, this cycle is very much around finance 2.5 and bring a lot of assets on chain. I joke sometimes that, you know, I still consider myself to be a banker at heart. And so this is very comfortable. This is a very comfortable space for me to be. Thank you.
 
+Speaker 3 39:34 
 I started building an on chain economy because, you know, like it tickles my banker fancy. But and so to me what that means is it really starts to bring together and kind of collapse together different actors that otherwise would find themselves in very different parts the economy.
 
+Speaker 3 39:49 
 Right. And I actually think it's, that's a really great thing because, you know, when you're talking to institutions such as some of our larger banks and they have like these sprawling businesses, everything between investment banking just to simply moving money around the world. And so a number of the things that we're potentially thinking about with Huma on pay 5 are actually really relevant to a number of institutions out there is while also being relevant to merchants, to payment processors. So a bunch of folks that typically would never talk to one another in the value chain are now actually can have a conversation directly.
 
+Speaker 3 40:30 
 And I think that's really what technology does, right? It makes things increasingly more peer to peer and takes, you know, otherwise very analog systems that have to have so many different types of actors and brings ideally efficiency to that.
 
+Speaker 2 40:44 
 Actually, this is the exact point that defines my experience in the past two weeks since we, you know, collectively announce this pay fine moment, you know, with you guys and circle and stellar and others, I start, you know, receiving and we start receiving a lot of inbound from people that I don't think we will ever, you know, hear from. And these people, you know, are intrigued by the idea and how close it actually, some of the use cases we talk, you know, about is to them and they're suddenly interested in, you know, the rest of the ecosystem. And we're very excited about that because, you know, I think people have a certain, you know, expectation when they hear about crypto and blockchain and they kind of became blight with to certain extent, you know, if they haven't been, you know, really deep in the at source of it and building, you know, within that. And this kind of like creates a new avenue because it enables experiences and value that they thought, you know, wasn't really possible, but they really needed, right? They, they, those institutions, those, you know, businesses, they really care about, you know, making their solutions better and more efficient and more available. So I'm super excited about that. And I think we'll see a great mix of this crowd at EFI Summit. So thank you all for showing up today. I know you took some time away from watching Olympics, but I think it's worth it to, you know, witness a she was a moment like this.
 
+Speaker 1 42:24 
 I wondering any people in audience why we're cleansing up if you have any questions or comments, just raise your hand, place.
 
+Speaker 2 42:34 
 And value edits, you know, make sure to follow Lily, Richard and Huma for moral of this conversation. Keep commenting, shoot us a message. I think, you know, we're 247 thinking about this and working on this with so many new partners joining the moment. Let's  go.
 
+Speaker 1 42:56 
 Yeah, one piece I want to add for the Pay Fee Summit, we're actually going to change the format quite a bit. Instead, like a lot of conferences dominated by panels, we're going to go minimum with panels. And then instead we're gonna get quite some industry significant leaders in payment finance domain and to give keynotes speaking and including Nini Leo herself. And then the other one is we're going to spotlighting a bunch of exciting projects. So if you're a builder in the paper space, you think your project, you would love to have this stage to get spotlighted and just contact us in a week or so. We're gonna stand up a website, could pay for that XYZ over there. People can nominate their own project as well. But if you're on the call, you have a project and you would love to get spotlighted, you have a head started to prepare yourself and once a site is ready and yeah, you can nominate yourself, then we'll find a good ways to highlight really great projects.
 
+Speaker 2 43:58 
 And some people are asking about how they can set up for the events, the event page and event registration will be announced from the Twitter account of humor very soon. But if you wanna learn more about it, just new DMS and we talk. With that, I'll close it off and we'll thank everybody for making this time during their summer. And, you know, have a great rest of your summer, everybody, and hope you enjoy watching Olympics. Lily, thanks.
 
+Speaker 1 44:35 
 Thank you. Thanks, guys. Thank you so much, Nini. Thank you, everyone to join us.
 
+Speaker 3 44:39 
 Yeah, thanks for putting it together. Thank you.
 
+Speaker 1 44:42 
 Thank you. Bye bye. Bye.
 
+Speaker 3 44:45 
 Okay, bye.
-
-
 
